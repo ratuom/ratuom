@@ -1,0 +1,20 @@
+name: Git Bonsai
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Grow Git Bonsai
+        uses: egorthinks/git-bonsai@v1
+        with:
+          user: ratuom
+          output-dir: output
