@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="output/bonsai.gif" width="350" alt="My animated Git Bonsai" />
-  &nbsp;&nbsp; | &nbsp;&nbsp;
+  &nbsp;&nbsp;  &nbsp;&nbsp;
   <img src="koi/koi.gif" width="235" alt="My animated Git Koi" />
 </p>
 
