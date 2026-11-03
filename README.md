@@ -1,6 +1,3 @@
-
-<h1 align="center">Hi, I'm Roni 👋</h1>
-
 <p align="center">
   <strong>AI Development Lead | M.Sc. (Tech.) Candidate</strong><br>
   Building practical AI solutions while completing my Master's in Computer Engineering at the University of Turku.
@@ -34,15 +31,16 @@ I'm an AI Development Lead focused on designing and integrating practical AI sol
 **Infrastructure & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git" alt="Docker, Linux, GitHub Actions, Git" />
-  <img src="https://cdn.simpleicons.org/qgis/589632" width="48" height="48" alt="QGIS" title="QGIS" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/docker/compose/main/logo.png" height="48" alt="Docker Compose" title="Docker Compose" />
+  <img src="https://skillicons.dev/icons?i=githubactions,nginx" height="48" alt="GitHub Actions and Nginx" title="GitHub Actions, Nginx" />
 </p>
 
 ## What I Build
 
 | Area | Focus |
 | --- | --- |
-| 🧠 **AI & Machine Learning** | Applied AI systems, machine learning pipelines, intelligent automation, RAG, and LLM integrations. |
-| ⚙️ **Software & Systems Engineering** | Backend services, systems programming, full-stack applications, databases, containerized infrastructure, and DevOps. |
-| 🗺️ **Geospatial Data & Simulation** | GIS workflows, OpenStreetMap processing, spatial databases, and simulation software. |
-| 🎓 **Research & Education** | Academic research and university teaching in computer science, algorithms, and databases. |
+|  **AI & Machine Learning** | Applied AI systems, machine learning pipelines, intelligent automation, RAG, and LLM integrations. |
+|  **Software & Systems Engineering** | Backend services, systems programming, full-stack applications, databases, containerized infrastructure, and DevOps. |
+|  **Geospatial Data & Simulation** | GIS workflows, OpenStreetMap processing, spatial databases, and simulation software. |
+|  **Research & Education** | Academic research and university teaching in computer science, algorithms, and databases. |
